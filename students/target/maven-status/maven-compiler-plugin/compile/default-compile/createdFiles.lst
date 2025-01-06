@@ -1,0 +1,11 @@
+com\litethinking\students\domain\Teacher.class
+com\litethinking\students\domain\Person$PersonBuilderImpl.class
+com\litethinking\students\domain\Student$StudentBuilder.class
+com\litethinking\students\domain\Person.class
+com\litethinking\students\domain\Student.class
+com\litethinking\students\domain\Address.class
+com\litethinking\students\domain\Student$StudentBuilderImpl.class
+com\litethinking\students\domain\Person$PersonBuilder.class
+com\litethinking\students\repositories\StudentRepository.class
+com\litethinking\students\service\StudentService.class
+com\litethinking\students\StudentsApplication.class
